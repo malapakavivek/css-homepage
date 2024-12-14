@@ -142,6 +142,7 @@ img {
     display: flex;
     flex-direction: column;
     justify-content:center;
+    padding: 0px 30px;
 }
 
 .text #text{
@@ -154,7 +155,7 @@ img {
 .text #subtext{
     font-size:15px;
     padding:20px;
-    margin-top: -25px;
+    margin-top: -38px;
 }
 
 .sign-up-button{
